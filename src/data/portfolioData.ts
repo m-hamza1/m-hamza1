@@ -14,7 +14,7 @@ export const PERSONAL_INFO = {
   status: "Open to remote Software Engineering roles & custom ERP / web contracts worldwide",
   stats: [
     { label: "Production Apps Shipped", value: "15+", change: "Web & Mobile" },
-    { label: "Years Experience", value: "3+", change: "Full-Stack & DevOps" },
+    { label: "Years Experience", value: "3+", change: "Full-Stack & ERPs" },
     { label: "Uptime & Reliability", value: "99.9%", change: "Production Servers" },
     { label: "Deployment Turnaround", value: "Fast", change: "cPanel, VPS & Cloud" },
   ],

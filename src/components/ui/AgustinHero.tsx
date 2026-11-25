@@ -31,14 +31,17 @@ export default function AgustinHero() {
           <div className="flex flex-wrap items-baseline gap-x-3 sm:gap-x-6 text-4xl sm:text-6xl md:text-8xl lg:text-9xl font-semibold tracking-tighter text-white uppercase leading-[0.95]">
             <span className="drop-shadow-sm">Developer</span>
             <span className="txt-cursive lowercase font-normal text-neutral-400 text-3xl sm:text-5xl md:text-7xl lg:text-8xl">
-              &amp;
+              for
             </span>
           </div>
 
           {/* Row 3 */}
           <div className="flex flex-wrap items-baseline gap-x-3 sm:gap-x-6 text-4xl sm:text-6xl md:text-8xl lg:text-9xl font-semibold tracking-tighter text-white uppercase leading-[0.95]">
-            <span className="drop-shadow-sm">DevOps</span>
-            <span className="text-neutral-500 drop-shadow-sm">Specialist</span>
+            <span className="drop-shadow-sm">Web</span>
+            <span className="txt-cursive lowercase font-normal text-neutral-400 text-3xl sm:text-5xl md:text-7xl lg:text-8xl">
+              &amp;
+            </span>
+            <span className="text-neutral-500 drop-shadow-sm">Mobile</span>
           </div>
         </div>
 

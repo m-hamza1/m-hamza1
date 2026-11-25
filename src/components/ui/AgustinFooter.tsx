@@ -26,7 +26,7 @@ export default function AgustinFooter() {
               {PERSONAL_INFO.name}
             </div>
             <div className="text-neutral-500 mt-1">
-              Based in Gujranwala, PK &bull; Senior Full-Stack &amp; DevOps &bull; Available Remotely Worldwide
+              Based in Gujranwala, PK &bull; Senior Full-Stack &amp; ERP Specialist &bull; Available Remotely Worldwide
             </div>
           </div>
 
